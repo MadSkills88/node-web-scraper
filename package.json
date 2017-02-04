@@ -9,7 +9,7 @@
     "url"  : "https://github.com/scotch-io/node-web-scraper"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "node server.js"
   },
   "dependencies" : {
     "express"    : "latest",
